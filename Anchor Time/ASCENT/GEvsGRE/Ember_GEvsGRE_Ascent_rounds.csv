@@ -1,0 +1,9 @@
+roundId,matchId,roundNumber,winCondition,winningTeamId,team1LoadoutTier,team2LoadoutTier,attackingTeamId,seriesId,teamOneId,teamTwoId,map,half,spikePlant,spikePlantRoundTimeMillis,defuse,defuseLeftTimeMillis,roundDurationMillis,spikeX,spikeY,sitePlant,atkPostPlant,defPostPlant
+1299991,83354,13,kills,8308,,,363,37656,363,8308,Ascent,second,,,,,71027,,,,,
+1299992,83354,14,defuse,8308,1,3,363,37656,363,8308,Ascent,second,TRUE,66513,TRUE,33126,78387,180,303,B,2,4
+1299993,83354,15,kills,363,4,3,363,37656,363,8308,Ascent,second,,,,,46947,,,,,
+1299994,83354,16,kills,8308,4,4,363,37656,363,8308,Ascent,second,,,,,81130,,,,,
+1299995,83354,17,kills,8308,4,4,363,37656,363,8308,Ascent,second,,,,,84834,,,,,
+1299996,83354,18,kills,363,2,4,363,37656,363,8308,Ascent,second,TRUE,78823,FALSE,,85876,186,292,B,1,1
+1299997,83354,19,defuse,8308,4,2,363,37656,363,8308,Ascent,second,TRUE,60611,TRUE,10456,95155,196,291,B,3,3
+1299998,83354,20,kills,8308,3,4,363,37656,363,8308,Ascent,second,,,,,74733,,,,,
